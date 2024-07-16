@@ -22,3 +22,7 @@ This project involves designing and simulating an inverter layout using the Magi
 ## Tools Used :
 - Magic: For layout design
 - IRSIM: For circuit simulation
+
+
+
+![pro](https://github.com/jagadeesh342/CMOS-inverter-layout/blob/main/Simulation%20in%20IRSIM.png)
