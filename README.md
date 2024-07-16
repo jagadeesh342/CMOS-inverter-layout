@@ -1,6 +1,6 @@
 #  <p align="center">CMOS-inverter-layout</p>
 
- ![pro]()
+ ![pro](https://github.com/jagadeesh342/CMOS-inverter-layout/blob/main/Magic%20layout%20of%20INVERTER.png)
 
 # Project Description :
 This project involves designing and simulating an inverter layout using the Magic VLSI tool. 
