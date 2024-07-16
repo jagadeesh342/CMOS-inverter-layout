@@ -5,7 +5,7 @@
 # Project Description :
 This project involves designing and simulating an inverter layout using the Magic VLSI tool. 
     The goal is to understand the layout design process, including creating a layout for an inverter circuit, 
-    ensuring design rule compliance, and simulating the design to verify its functionality.
+    ensuring design rule compliance, and simulating the design to verify its functionality(switch level circuit).
 
 
 ## Features :
