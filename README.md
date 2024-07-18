@@ -3,8 +3,8 @@
  ![pro](https://github.com/jagadeesh342/CMOS-inverter-layout/blob/main/Magic%20layout%20of%20INVERTER.png)
 
 # Project Description :
-This project involves designing and simulating an inverter layout using the Magic VLSI tool. 
-    The goal is to understand the layout design process, including creating a layout for an inverter circuit, 
+This project involves designing and simulating an inverter and buffer layout using the Magic VLSI tool. 
+    The goal is to understand the layout design process, including creating a layout for an inverter and buffer circuit, 
     ensuring design rule compliance, and simulating the design to verify its functionality(switch level circuit).
 
 
@@ -15,7 +15,7 @@ This project involves designing and simulating an inverter layout using the Magi
    - **Design Rule Checking (DRC):** Ensuring that the layout adheres to the specified design rules.
     <br>
    
-   - **Simulation:** Simulating the inverter design using a suitable simulator to verify its functionality.
+   - **Simulation:** Simulating the inverter and buffer design using a suitable simulator to verify its functionality.
     <br>
 
 
@@ -31,5 +31,5 @@ This project involves designing and simulating an inverter layout using the Magi
 ![pro](https://github.com/jagadeesh342/CMOS-inverter-layout/blob/main/IMG.jpg)
 
 ## Conclusion :
-   This project demonstrates the complete flow of designing, verifying, and simulating a CMOS inverter using the Magic VLSI tool.
-    It provides a practical understanding of VLSI layout design, design rule checking, LVS verification, and simulation.
+   This project demonstrates the complete flow of designing, and simulating a CMOS inverter and buffer using the Magic VLSI tool.
+    It provides a practical understanding of VLSI layout design, design rule checking and simulation.
