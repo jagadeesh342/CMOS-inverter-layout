@@ -27,6 +27,9 @@ This project involves designing and simulating an inverter layout using the Magi
 
 ![pro](https://github.com/jagadeesh342/CMOS-inverter-layout/blob/main/Simulation%20in%20IRSIM.png)
 
+# Buffer
+![pro](
+
 ## Conclusion :
    This project demonstrates the complete flow of designing, verifying, and simulating a CMOS inverter using the Magic VLSI tool.
     It provides a practical understanding of VLSI layout design, design rule checking, LVS verification, and simulation.
