@@ -1,4 +1,4 @@
-#  <p align="center">CMOS-inverter-layout</p>
+#  <p align="center">CMOS-inverter & buffer-layout</p>
 
  ![pro](https://github.com/jagadeesh342/CMOS-inverter-layout/blob/main/Magic%20layout%20of%20INVERTER.png)
 
@@ -10,7 +10,7 @@ This project involves designing and simulating an inverter layout using the Magi
 
 ## Features :
 
-   - **Inverter Layout Design:** Creating the layout of a basic CMOS inverter.
+   - **Inverter Layout Design:** Creating the layout of a basic CMOS inverter and buffer.
     <br>
    - **Design Rule Checking (DRC):** Ensuring that the layout adheres to the specified design rules.
     <br>
